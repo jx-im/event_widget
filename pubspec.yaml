@@ -1,7 +1,8 @@
 name: event_widget
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+author: leilei<leilei927@gmail.com>
+homepage: https://github.com/jx-im/event_widget.git
 
 environment:
   sdk: '>=3.1.5 <4.0.0'

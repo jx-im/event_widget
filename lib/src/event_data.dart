@@ -1,4 +1,4 @@
-import 'package:event_widget/event_dispatcher.dart';
+import 'package:event_widget/src/event_dispatcher.dart';
 
 class EventData {
   final EventDispatcher data;

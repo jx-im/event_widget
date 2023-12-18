@@ -31,7 +31,7 @@ class _ActionInfo {
   }
 }
 
-mixin EventDispatcher {
+class EventDispatcher {
   final Map<Object, List<_ActionInfo>> _actions = <Object, List<_ActionInfo>>{};
 
   final List<_ActionInfo> _dels = [];
